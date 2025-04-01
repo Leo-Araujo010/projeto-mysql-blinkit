@@ -99,7 +99,7 @@ Para mais detalhes das análises, consulte o arquivo [Projeto Blinkit MySQL_ Doc
 ---
 
 ## Contatos
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seunome/)
-- **E-mail**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- **LinkedIn**: [Leonardo Araujo de Oliveira]([https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/leonardo-araujo-de-oliveira-31589730b/))
+- **E-mail**: [leonardo.araujo.oliv@gmail.com](mailto:leonardo.araujo.oliv@gmail.com)
 
 Sinta-se à vontade para contribuir ou dar feedback sobre este projeto!
