@@ -73,7 +73,7 @@ Além disso, foi possível concluir que:
 - **Análises por localidade** (Tier 1, Tier 2, etc.) evidenciaram concentrações de vendas em determinadas regiões.  
 - **Idade do estabelecimento** afeta diretamente o volume de vendas, sendo estabelecimentos mais antigos com maior volume.
 
-Para mais detalhes das análises, consulte o arquivo [Projeto Blinkit MySQL_ Documento Técnico.pdf](docs/Projeto%20Blinkit%20MySQL_%20Documento%20Técnico.pdf).
+Para mais detalhes das análises, consulte o arquivo [Projeto Blinkit MySQL_ Documento Técnico.pdf](Docs//Projeto%20Blinkit%20MySQL_%20Documento%20Técnico.pdf).
 
 ---
 
